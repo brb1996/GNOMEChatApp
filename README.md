@@ -1,2 +1,7 @@
+------------------------------------------------------------
+ What is Linux_Chat_App?
+------------------------------------------------------------
+
 # Linux_Chat_App
-Linux Chat Application for GMONE Desktop
+It's a Client Server based chat application for Linux GMONE Desktop.
+
