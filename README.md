@@ -1,7 +1,7 @@
 ------------------------------------------------------------
- What is Linux_Chat_App?
+ What is GNOME Chat App?
 ------------------------------------------------------------
 
-# Linux_Chat_App
-It's a Client Server based chat application for Linux GNOME Desktop.
+# GNOME Chat App
+A messaging platform for Linux GNOME Desktop Users.
 
