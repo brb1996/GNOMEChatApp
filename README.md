@@ -3,5 +3,5 @@
 ------------------------------------------------------------
 
 # Linux_Chat_App
-It's a Client Server based chat application for Linux GMONE Desktop.
+It's a Client Server based chat application for Linux GNOME Desktop.
 
